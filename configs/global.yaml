@@ -1,0 +1,11 @@
+disease:
+  alpha: 0.8
+  beta: 0.8
+  p_SI: 0.05
+  p_IH: 0.01
+  p_IR: 0.05
+  p_HR: 0.10
+  p_RS: 0.03
+
+social:
+  p_stubborn: 0.20
